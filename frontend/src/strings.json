@@ -1,0 +1,32 @@
+{
+  "en": {
+    "appTitle": "AI Internship Recommender",
+    "welcomeMessage": "Welcome to the AI Internship Recommender!",
+    "formTitle": "Student Profile",
+    "nameLabel": "Name",
+    "emailLabel": "Email",
+    "skillsLabel": "Skills (comma-separated)",
+    "submitButton": "Get Recommendations",
+    "recommendationTitle": "Recommended Internships",
+    "noRecommendations": "No recommendations available.",
+    "loading": "Loading...",
+    "feedbackTitle": "Feedback",
+    "feedbackPlaceholder": "Your feedback here...",
+    "sendFeedbackButton": "Send Feedback"
+  },
+  "hi": {
+    "appTitle": "एआई इंटर्नशिप अनुशंसा प्रणाली",
+    "welcomeMessage": "एआई इंटर्नशिप अनुशंसा प्रणाली में आपका स्वागत है!",
+    "formTitle": "छात्र प्रोफ़ाइल",
+    "nameLabel": "नाम",
+    "emailLabel": "ईमेल",
+    "skillsLabel": "कौशल (अल्पविराम से अलग)",
+    "submitButton": "अनुशंसाएँ प्राप्त करें",
+    "recommendationTitle": "अनुशंसित इंटर्नशिप",
+    "noRecommendations": "कोई अनुशंसाएँ उपलब्ध नहीं हैं।",
+    "loading": "लोड हो रहा है...",
+    "feedbackTitle": "प्रतिक्रिया",
+    "feedbackPlaceholder": "यहाँ आपकी प्रतिक्रिया...",
+    "sendFeedbackButton": "प्रतिक्रिया भेजें"
+  }
+}
