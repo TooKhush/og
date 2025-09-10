@@ -4,5 +4,3 @@ scikit-learn
 numpy
 pandas
 joblib
-sqlite3
-pytest
